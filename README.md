@@ -3,7 +3,6 @@
 Currently designing and developing an interactive glove using various sensors.
 
 ## Equipment used:
-* Will update these with links to store website
 
 -  5x 2.2" flex sensors
 -  1x 6-axis IMU device (MPU-6050)
